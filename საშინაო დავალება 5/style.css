@@ -1,0 +1,54 @@
+body {
+    background-color: lightgray;
+   
+}
+
+.mtavari_divi {
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 150px;
+    width: 320px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.meore_divi {
+     padding: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.paragrafi {
+    margin-left: 50px;
+    font-family: "Outfit", sans-serif;
+    font-size: 20px;
+    font-weight: 700
+}
+    
+._paragrafi {
+    margin-top: -20px;
+    font-family: "Outfit", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.mkrtali {
+    font-family: "Outfit", sans-serif;
+    font-weight: 200;
+}
+
+.mkrtali_ {
+    margin-left: 35px;
+    margin-top: -20px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 200;
+}
+
+.mkrtali__ {
+    margin-left: 110px;
+    margin-top: -20px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 200;
+}
